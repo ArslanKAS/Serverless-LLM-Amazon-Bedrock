@@ -1,0 +1,11 @@
+
+{
+    "version": 0.1,
+    "sentiment": "positive",
+    "issues": [
+        {
+            "topic": "charges",
+            "summary": "pre authorization is a standard procedure to cover any incidental expenses you may incur during your stay"
+        }
+    ]
+}
